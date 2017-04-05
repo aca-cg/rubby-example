@@ -4,3 +4,9 @@ plan:
     statement: markdowns/part1.md
   - title: Part 2
     statement: markdowns/part2.md
+projects:
+  ruby:
+    root: /
+    runner:
+      name: codingame/ruby-bundler-runner
+      version: 1.1.0-ruby-2.4
